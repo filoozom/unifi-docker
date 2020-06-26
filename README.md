@@ -188,7 +188,7 @@ This is used to determine whether or not the UniFi service runs as a privileged 
 
 ### `UNIFI_HTTP_PORT`
 
-Default: `8080`
+Default: `8880`
 
 This is the HTTP port used by the Web interface. Browsers will be redirected to the `UNIFI_HTTPS_PORT`.
 
